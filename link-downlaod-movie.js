@@ -1,6 +1,6 @@
-<script type='text/javascript'>
-function findlik(){
-  
-        window.open('google.com','_blank');
-	
-</script>
+<script>
+  var link = 'http://www.google.com';
+
+  var someLink = document.querySelector('#121');
+  someLink.setAttribute('href', link);
+<script>
