@@ -1,4 +1,4 @@
-<script type="text/javascript">
+<script type='text/javascript'>
 function findlik(){
     if (id == '121')
 	{
@@ -8,4 +8,3 @@ function findlik(){
 	{ 
 	}
 </script>
-    
